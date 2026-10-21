@@ -1,0 +1,15 @@
+{
+	"name": "adf-caresync2201",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f09e15fd-16e2-4833-8c25-936a52f33992",
+		"tenantId": "21ec4bfc-a56a-4248-b721-5640d403af22"
+	}
+}
