@@ -1,0 +1,14 @@
+{
+	"name": "ls_azuresql",
+	"properties": {
+		"annotations": [],
+		"type": "AzureSqlDatabase",
+		"typeProperties": {
+			"server": "sqlserver-caresync.database.windows.net",
+			"database": "sql-db-caresync",
+			"encrypt": "mandatory",
+			"trustServerCertificate": false,
+			"authenticationType": "SystemAssignedManagedIdentity"
+		}
+	}
+}
